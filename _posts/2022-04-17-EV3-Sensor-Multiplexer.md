@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "EV3のポートをふやしたい with "EV3 Sensor Multiplexer""
+title: "EV3のポートをふやす with EV3 Sensor Multiplexer"
 tags: ev3 ev3dev-python
 ---
 
