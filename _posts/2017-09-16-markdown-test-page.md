@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Test Page"
-tags: ev3dev-python ev3-micropython
+tags: ev3 ev3-micropython
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
