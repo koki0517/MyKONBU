@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ev3fast"
+title: "EV3のポートを増やしたい ~Port Splitter for NXT Digital Sensors~ with Python"
 tags: ev3 ev3dev-python
 ---
 # EV3のポートを増やしたい ~Port Splitter for NXT Digital Sensors~ with Python

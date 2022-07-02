@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ev3fast"
+title: "EV3 Sensor MultiplexerはMicroPythonで使えるのか？"
 tags: ev3 ev3-micropython
 ---
 

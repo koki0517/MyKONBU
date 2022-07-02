@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ev3fast"
+title: "LEGO SPIKE Primeでデイジーチェーン(Hub to Hub communication)"
 tags: spike-prime
 ---
 
