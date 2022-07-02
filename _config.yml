@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
+url: https://koki0517.github.io/
+baseurl: /windows-95
 
 # variables
 name: Your Site Name
