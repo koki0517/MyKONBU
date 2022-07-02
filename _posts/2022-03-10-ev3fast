@@ -1,0 +1,62 @@
+---
+layout: default
+title: "ev3fast"
+tags: ev3 ev3dev-python
+---
+
+# Introduction
+Most of people use EV3-G(also called "LEGO Mindstorms Education") for EV3 programing.<br>
+However, some use "[Python(ev3dev)](https://www.ev3dev.org/)". I am one of them.<br>
+
+ほとんどの人はEV3のプログラムをするのにEV3-G(教育版EV3ソフトウェア)を使っているでしょう。ですが、私含め[Python](https://www.ev3dev.org/)を使う人もいます。<br>
+
+# Which is faster?  |どっちが速いか？
+EV3-G is faster, because EV3-G is one of compiler languages, but Python is one of scripting languages.<br>
+You should know compiler languages are faster than scripting languages. <br>
+According to [this](https://www.aposteriori.com.sg/ev3fast-a-python-module-for-faster-ev3-interface/), EV3-G is about 13 times faster than Python.<br>
+This difference is never small.<br>
+
+結論から言ってしまうとEV3-Gのほうが早いです。EV3-Gがコンパイラ言語で実行されるのに対して、Pythonがスクリプト言語でLinuxを挟んでいます。<br>
+[これ](https://www.aposteriori.com.sg/ev3fast-a-python-module-for-faster-ev3-interface/)によるとEV3-Gの方がPythonの約13倍速いそう。<br>
+
+# Howerer…  |でも…
+I am used to wiriting codes; therefore It was not exciting for me to arrange the blocks to make programs.<br>
+<br>
+コードを書くのに慣れているから、コードでプログラムしたいんです。<br>
+
+# ev3fast
+There is a module for faster performance.<br>
+It is "[**ev3fast**](https://github.com/QuirkyCort/ev3dev-lang-python-fast)".<br>
+
+It supports these classes.<br>
+* class Sensor (address=None)
+* class TouchSensor (address=None)
+* class ColorSensor (address=None)
+* class UltrasonicSensor (address=None)
+* class GyroSensor (address=None)
+* class Motor (address=None)
+* class LargeMotor (address=None)
+* class MediumMotor (address=None)
+
+[This article](https://www.aposteriori.com.sg/ev3fast-a-python-module-for-faster-ev3-interface/) says that ev3fast is about 6 times faster than ev3dev(Python).<br>
+However according my experiences, ev3fast is 2 times faster than ev3dev.<br>
+Your preformance can change depending on your code and your environment.<br>
+
+ev3devを高速化するのに[ev3fast](https://github.com/QuirkyCort/ev3dev-lang-python-fast)というものがある。<br>
+[この記事](https://www.aposteriori.com.sg/ev3fast-a-python-module-for-faster-ev3-interface/)によると、約6倍高速化されるそう。サポートされるクラスは以下の通り。<br>
+* class Sensor (address=None)
+* class TouchSensor (address=None)
+* class ColorSensor (address=None)
+* class UltrasonicSensor (address=None)
+* class GyroSensor (address=None)
+* class Motor (address=None)
+* class LargeMotor (address=None)
+* class MediumMotor (address=None)
+
+ただし、私は試した限りでは2倍程度しか高速化されませんでした。おそらく試行に用いたコードや環境に違いがあったのが原因だと思われます。<br>
+だとしても高速化されるのは確かなようです。ぜひev3devの処理速度に困っている人は試してみてほしいです。<br>
+
+# References  |参考文献
+[https://www.aposteriori.com.sg/ev3fast-a-python-module-for-faster-ev3-interface/](https://www.aposteriori.com.sg/ev3fast-a-python-module-for-faster-ev3-interface/)
+
+[https://github.com/QuirkyCort/ev3dev-lang-python-fast](https://github.com/QuirkyCort/ev3dev-lang-python-fast)

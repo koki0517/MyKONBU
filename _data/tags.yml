@@ -13,5 +13,5 @@ robocup-jr-wrl:
 ev3dev-python:
   name: ev3dev-python
 
-tag2:
-  name: tag2
+ev3-micropython:
+  name: ev3-micropython

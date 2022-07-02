@@ -30,6 +30,6 @@ EV3本体を2個つなぐことで、ポート数を増やすこと。
 つまるところ、デイジーチェーンを使いたければClassroomではなく、教育版EV3ソフトウェアを使うのが無難だろう。また、[Multiplexer](http://www.mindsensors.com/ev3-and-nxt/23-ev3-sensor-multiplexer-for-ev3-or-nxt)を使うのも１つの手だろう。<br>
 
 
-## 参考文献:<br>
-https://ev3lessons.com/en/ProgrammingLessons/advanced/scratch-DaisyChain.pdf<br>
-https://afrel.co.jp/archives/22929<br>
+## 参考文献:
+[https://ev3lessons.com/en/ProgrammingLessons/advanced/scratch-DaisyChain.pdf](https://ev3lessons.com/en/ProgrammingLessons/advanced/scratch-DaisyChain.pdf)<br>
+[https://afrel.co.jp/archives/22929](https://afrel.co.jp/archives/22929)<br>
