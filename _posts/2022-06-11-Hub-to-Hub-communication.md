@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "LEGO SPIKE Primeでデイジーチェーン(Hub to Hub communication)"
+title: "Hub to Hub communication"
 tags: spike-prime
 ---
 

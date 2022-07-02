@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "LEGOステアリングを再現してみよう。MicroPythonに"
+title: "ステアリングを再現してみよう。MicroPythonに"
 tags: ev3 ev3-micropython
 ---
 # LEGOステアリングを再現してみよう。MicroPythonに
