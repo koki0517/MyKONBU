@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "EV3のポートをふやす with EV3 Sensor Multiplexer"
+title: "LEGO Sensor Multiplexer with EV3"
 tags: ev3 ev3dev-python
 ---
 
-# EV3のポートをふやしたい with "EV3 Sensor Multiplexer"
+# EV3 Sensor Multiplexer
 
 ## はじめに
 EV3で遊んでいると誰もが**ポート数の壁**に当たるでしょう。<br>

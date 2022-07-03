@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "EV3のポートを増やしたい ~Port Splitter for NXT Digital Sensors~ with Python"
+title: "Port Splitter for NXT Digital Sensors with Python"
 tags: ev3 ev3dev-python
 ---
-# EV3のポートを増やしたい ~Port Splitter for NXT Digital Sensors~ with Python
+# Port Splitter for NXT Digital Sensors with Python
 
 # Introduction / はじめに
 There are some way to increase the number of EV3's ports.<br>
