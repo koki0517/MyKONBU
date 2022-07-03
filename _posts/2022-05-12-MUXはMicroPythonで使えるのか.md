@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "EV3 Sensor MultiplexerはMicroPythonで使えるのか？"
+title: "MUXはMicroPythonで使えるのか？"
 tags: ev3 ev3-micropython
 ---
 

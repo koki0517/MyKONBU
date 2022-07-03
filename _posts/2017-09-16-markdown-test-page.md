@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Test Page"
-tags: ev3 ev3-micropython
+tags: wro-senior robocup-jr-wrl
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
