@@ -40,7 +40,7 @@ iOS&Mac: https://apps.apple.com/jp/app/lego-mindstorms-inventor/id1515448947<br>
 ## 使い方
 ※MindstormsアプリのHelpをそのまま和訳しています。いくらか間違いがあるかもしれません。<br>
 
-<img width="500" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2449798/8dc70512-3656-356e-fff0-5615280a2a5a.png">
+<img width="600" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2449798/8dc70512-3656-356e-fff0-5615280a2a5a.png">
 
 ## デイジーチェーンとの違い
 * デイジーチェーンは母機となるEV3が他のEV3を制御する形なのでプログラムも1台分用意すればよかったのに対して、1つ1つのHubはHub to Hubにおいてあくまでも独立しており、あるHubの発信した信号を他のHubが読み取る方法であるため、プログラムはHubの数だけ必要になります。<br>
