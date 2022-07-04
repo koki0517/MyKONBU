@@ -49,7 +49,8 @@ $z$が0に近づくほど2つのグラフは$y=0$に近くなり、$z=0$を機�
 <img width="600" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2449798/48266116-a046-ab27-50bd-22e50e7827eb.png">
 
 # コードに起こす
-EV3-Gのステアリング機能をほぼそのままMicroPythonに移植したコードです。<br>
+EV3-Gのステアリング機能をほぼそのままMicroPythonに移植したコードです。
+
 ```sample.py
 #!/usr/bin/env pybricks-micropython
 from pybricks.ev3devices import Motor
@@ -125,6 +126,7 @@ tank.steeing_for_degrees(40,50,1024)
 # 70%のパワーでモーターが3回転するまで左斜め前に走る
 tank.steering_for_rotations(70,-20,3)
 ```
+
 ※まだまだ初心者なので美しいコードではないかもしれません。エラー処理もしてたりしてなかったり、、、<br>
 
 # 参考文献
